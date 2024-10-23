@@ -1,0 +1,4 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "CodeGPT.Autocomplete.enabled": true
+}
